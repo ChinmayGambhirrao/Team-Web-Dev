@@ -16,7 +16,7 @@ import {
   threejs,
 } from "../assets";
 import chinmay from "../assets/company/chinmay.png";
-import aman from "../assets/company/aman.png";
+import aman from "../assets/company/Aman.png";
 import bhavik from "../assets/company/bhavik.png";
 import nikhilesh from "../assets/company/nikhilesh.png";
 import bootstrap from "../assets/tech/bootstrap.png";
